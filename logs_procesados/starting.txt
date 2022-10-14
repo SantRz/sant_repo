@@ -1,0 +1,63 @@
+STARTING: netfilter persistent configuration
+STARTING: vboxweb-service.service
+STARTING: vboxballoonctrl-service.service
+STARTING: containerd container runtime
+STARTING: Docker Application Container Engine
+STARTING: vboxautostart-service.service
+STARTING: LSB: disk temperature monitoring daemon
+STARTING: Set console font and keymap
+STARTING: RealtimeKit Scheduling Policy Service
+STARTING: Remount Root and Kernel File Systems
+STARTING: Restore /etc/resolv.conf if the system crashed before the ppp link was shut down
+STARTING: NFS Mount Daemon
+STARTING: WPA supplicant
+STARTING: Raise network interfaces
+STARTING: Update UTMP about System Boot/Shutdown
+STARTING: Modem Manager
+STARTING: Availability of block devices
+STARTING: Load Kernel Modules
+STARTING: Save/Restore Sound Card State
+STARTING: Preprocess NFS configuration
+STARTING: Create System Users
+STARTING: Show Plymouth Boot Screen
+STARTING: udev Coldplug all Devices
+STARTING: File System Check on /dev/disk/by-uuid/1a09c949-6518-4aeb-9b6d-e4273f4594e0
+STARTING: Authorization Manager
+STARTING: NFS server and services
+STARTING: Disk Manager
+STARTING: File System Check on /dev/disk/by-uuid/53cbcba6-2e2b-4aa0-95ad-062f93c18891
+STARTING: Network Manager Script Dispatcher Service
+STARTING: OpenBSD Secure Shell server
+STARTING: Hold until boot process finishes up
+STARTING: Journal Service
+STARTING: Rotate log files
+STARTING: Login Service
+STARTING: Network Manager Wait Online
+STARTING: Apply Kernel Variables
+STARTING: Network Manager
+STARTING: Light Display Manager
+STARTING: VirtualBox Linux kernel module
+STARTING: Create Static Device Nodes in /dev
+STARTING: Network Time Synchronization
+STARTING: System Logging Service
+STARTING: Manage, Install and Generate Color Profiles
+STARTING: Daily apt download activities
+STARTING: Create Volatile Files and Directories
+STARTING: Load AppArmor profiles
+STARTING: RPC bind portmap service
+STARTING: Set the console keyboard layout
+STARTING: Update UTMP about System Runlevel Changes
+STARTING: LSB: exim Mail Transport Agent
+STARTING: Docker Socket for the A
+STARTING: Create list of required static device nodes for the current kernel
+STARTING: Tell Plymouth To Write Out Runtime Data
+STARTING: Flush Journal to Persistent Storage
+STARTING: Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling
+STARTING: Initialize hardware monitoring sensors
+STARTING: udev Kernel Device Manager
+STARTING: Permit User Sessions
+STARTING: NFSv4 ID-name mapping service
+STARTING: Load/Save Random Seed
+STARTING: Avahi mDNS/DNS-SD Stack
+STARTING: Daily man-db regeneration
+STARTING: Hostname Service

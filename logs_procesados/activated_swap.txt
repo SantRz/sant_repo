@@ -1,0 +1,1 @@
+ACTIVATED SWAP: /dev/disk/by-uuid/f8ded7d2-0854-44f5-a9f4-fc36d50d0b

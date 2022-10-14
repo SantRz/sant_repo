@@ -1,0 +1,20 @@
+REACHED TARGET: System Initialization
+REACHED TARGET: Swap
+REACHED TARGET: Sound Card
+REACHED TARGET: Rescue Mode
+REACHED TARGET: Network
+REACHED TARGET: Local File Systems
+REACHED TARGET: NFS client services
+REACHED TARGET: Network is Online
+REACHED TARGET: Remote File Systems
+REACHED TARGET: Network (Pre)
+REACHED TARGET: System Time Synchronized
+REACHED TARGET: Printer
+REACHED TARGET: Local Encrypted Volumes
+REACHED TARGET: Remote File Systems (Pre)
+REACHED TARGET: Sockets
+REACHED TARGET: Timers
+REACHED TARGET: RPC Port Mapper
+REACHED TARGET: Basic System
+REACHED TARGET: Local File Systems (Pre)
+REACHED TARGET: Paths

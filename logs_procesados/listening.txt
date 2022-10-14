@@ -1,0 +1,13 @@
+LISTENING: Avahi mDNS/DNS-SD Stack Activation Socket
+LISTENING: Device-mapper event daemon FIFOs
+LISTENING: LVM2 poll daemon socket
+LISTENING: Journal Socket
+LISTENING: Docker Socket for the API
+LISTENING: Journal Audit Socket
+LISTENING: D-Bus System Message Bus Socket
+LISTENING: fsck to fsckd communication Socket
+LISTENING: Load/Save RF Kill Switch Status /dev/rfkill Watch
+LISTENING: CUPS Scheduler
+LISTENING: udev Kernel Socket
+LISTENING: udev Control Socket
+LISTENING: Journal Socket (/dev/log)

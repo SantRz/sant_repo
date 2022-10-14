@@ -1,0 +1,6 @@
+MOUNTED: /home
+MOUNTED: Kernel Debug File System
+MOUNTED: /mnt/oldsys
+MOUNTED: Huge Pages File System
+MOUNTED: NFSD configuration filesystem
+MOUNTED: POSIX Message Queue File System

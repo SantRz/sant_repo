@@ -1,0 +1,6 @@
+MOUNTING: /home
+MOUNTING:  system ... Begin: Running /scripts/local-top ..
+MOUNTING: Kernel Debug File System
+MOUNTING: /mnt/oldsys
+MOUNTING: Huge Pages File System
+MOUNTING: POSIX Message Queue File System

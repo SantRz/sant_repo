@@ -1,0 +1,74 @@
+STARTED: netfilter persistent configuration
+STARTED: vboxballoonctrl-service.service
+STARTED: Helper to synchronize boot up for ifupdown
+STARTED: vboxweb-service.service
+STARTED: containerd container runtime
+STARTED: vboxautostart-service.service
+STARTED: Daily apt upgrade and clean activities
+STARTED: Set console font and keymap
+STARTED: LSB: disk temperature monitoring daemon
+STARTED: RealtimeKit Scheduling Policy Service
+STARTED: Remount Root and Kernel File Systems
+STARTED: Restore /etc/resolv.conf if the system crashed before the ppp link was shut down
+STARTED: NFS Mount Daemon
+STARTED: WPA supplicant
+STARTED: Raise network interfaces
+STARTED: Update UTMP about System Boot/Shutdown
+STARTED: Modem Manager
+STARTED: Availability of block devices
+STARTED: Save/Restore Sound Card State
+STARTED: Make remote CUPS printers available locally
+STARTED: Forward Password Requests to Plymouth Directory Watch
+STARTED: Daily rotation of log files
+STARTED: Preprocess NFS configuration
+STARTED: Create System Users
+STARTED: Show Plymouth Boot Screen
+STARTED: irqbalance daemon
+STARTED: udev Coldplug all Devices
+STARTED: File System Check on /dev/disk/by-uuid/1a09c949-6518-4aeb-9b6d-e4273f4594e0
+STARTED: CUPS Scheduler
+STARTED: Authorization Manager
+STARTED: NFS server and services
+STARTED: Disk Manager
+STARTED: File System Check on /dev/disk/by-uuid/53cbcba6-2e2b-4aa0-95ad-062f93c18891
+STARTED: Daily Cleanup of Temporary Directories
+STARTED: Rescue Shell
+STARTED: Network Manager Script Dispatcher Service
+STARTED: Run anacron jobs
+STARTED: OpenBSD Secure Shell server
+STARTED: Manage Sound Card State (restore and store)
+STARTED: Journal Service
+STARTED: Login Service
+STARTED: Rotate log files
+STARTED: Network Manager Wait Online
+STARTED: Apply Kernel Variables
+STARTED: Network Manager
+STARTED: Unattended Upgrades Shutdown
+STARTED: Trigger anacron every hour
+STARTED: VirtualBox Linux kernel module
+STARTED: Create Static Device Nodes in /dev
+STARTED: Network Time Synchronization
+STARTED: Daily apt download activities
+STARTED: System Logging Service
+STARTED: Manage, Install and Generate Color Profiles
+STARTED: Create Volatile Files and Directories
+STARTED: RPC bind portmap service
+STARTED: Load AppArmor profiles
+STARTED: Regular background program processing daemon
+STARTED: D-Bus System Message Bus
+STARTED: Set the console keyboard layout
+STARTED: Update UTMP about System Runlevel Changes
+STARTED: pNFS block layout mapping daemon
+STARTED: Create list of required static device nodes for the current kernel
+STARTED: Tell Plymouth To Write Out Runtime Data
+STARTED: Flush Journal to Persistent Storage
+STARTED: Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling
+STARTED: Initialize hardware monitoring sensors
+STARTED: udev Kernel Device Manager
+STARTED: Permit User Sessions
+STARTED: NFSv4 ID-name mapping service
+STARTED: File System Check Daemon to report status
+STARTED: Avahi mDNS/DNS-SD Stack
+STARTED: Load/Save Random Seed
+STARTED: Daily man-db regeneration
+STARTED: Hostname Service
